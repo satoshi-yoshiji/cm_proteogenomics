@@ -1,9 +1,8 @@
----
 ## COL6A3-Derived Endotrophin Mediates the Effect of Obesity on Coronary Artery Disease: An Integrative Proteogenomics Analysis  
 *medRxiv 2023*  
 [DOI: https://doi.org/10.1101/2023.04.19.23288706](https://doi.org/10.1101/2023.04.19.23288706)
 
----
+***
 
 ### Step 1: MR - Identifying the Effect of BMI on Plasma Protein Levels  
 1. Generate instrumental variables by running `00.remove_MHC_and_clump.R` in the `1.1.BMI_to_proteins/` directory.  
