@@ -1,4 +1,4 @@
-## COL6A3-Derived Endotrophin Mediates the Effect of Obesity on Coronary Artery Disease: An Integrative Proteogenomics Analysis  
+## Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease  
 *medRxiv 2023*  
 [DOI: https://doi.org/10.1101/2023.04.19.23288706](https://doi.org/10.1101/2023.04.19.23288706)
 
