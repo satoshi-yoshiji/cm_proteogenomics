@@ -1,6 +1,8 @@
-## Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease
-*medRxiv 2023*
-[DOI: https://doi.org/10.1101/2023.04.19.23288706](https://doi.org/10.1101/2023.04.19.23288706)
+## Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease  
+Satoshi Yoshiji, Tianyuan Lu, Guillaume Butler-Laporte, Julia Carrasco-Zanini-Sanchez, Chen-Yang Su, Yiheng Chen, Kevin Liang, Julian Daniel Sunday Willett, Shidong Wang, Darin Adra, Yann Ilboudo, Takayoshi Sasako, Satoshi Koyama, Tetsushi Nakao, Vincenzo Forgetta, Yossi Farjoun, Hugo Zeberg, Sirui Zhou, Michael Marks-Hultström, Mitchell J. Machiela, Rama Kaalia, Hesam Dashti, Melina Claussnitzer, Jason Flannick, Nicholas J. Wareham, Vincent Mooser, Nicholas J. Timpson, Claudia Langenberg & J. Brent Richards.  
+*Nature Genetics* **57**, 345–357 (2025).  
+[https://doi.org/10.1038/s41588-024-02052-7](https://doi.org/10.1038/s41588-024-02052-7)
+
 
 ### Step 1: MR - Identifying the Effect of BMI on Plasma Protein Levels  
 1. Generate instrumental variables by running `00.remove_MHC_and_clump.R` in the `1.1.BMI_to_proteins/` directory.  
